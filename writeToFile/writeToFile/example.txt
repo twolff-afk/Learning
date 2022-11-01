@@ -1,0 +1,5 @@
+log this to a file.
+error this to a file.
+info this to a file.
+debug this to a file.
+Append this to existig text.

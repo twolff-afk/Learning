@@ -7,3 +7,10 @@ out/
 .bin/
 *.class
 *.jar
+*.vs
+Debug/
+*.sln
+*.vcxproj*
+x64/
+libs/
+packages/

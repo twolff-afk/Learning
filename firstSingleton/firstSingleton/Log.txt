@@ -1,0 +1,6 @@
+2021-05-07.11:08:42:	message to be logged
+2021-05-07.11:08:42:	logg message 1 ...
+2021-05-07.11:08:42:	 Message is:logg message 2 ... Number is:10
+2021-05-07.11:09:52:	message to be logged
+2021-05-07.11:09:53:	logg message 1 ...
+2021-05-07.11:09:55:	 Message is:logg message 2 ... Number is:10
